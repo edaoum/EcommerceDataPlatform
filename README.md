@@ -239,7 +239,3 @@ s3://amazon-reviews-pds/tsv/
 `data/producer.py` downloads the `Electronics` category subset and replays it row-by-row into Kafka, simulating a live user-event stream at a configurable rate (default: 10 events/sec).
 
 ---
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE) for details.
